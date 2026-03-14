@@ -1,0 +1,30 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(70, 70, 70);
+}
+
+article {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(101, 102, 104);
+    border-radius: 25px;
+    box-shadow: 5px 5px black;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#enter__Button {
+    margin: 50px;
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    border-radius: 15px;
+    width: 125px;
+    cursor: pointer;
+}
